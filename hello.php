@@ -1,2 +1,2 @@
-<?PHP
+<?php
 	echo "Hello, world!";
