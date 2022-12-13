@@ -1,1 +1,3 @@
-readme.txtДругая строка
+readme.txt
+Другая строка
+Hello, git!
